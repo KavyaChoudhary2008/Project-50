@@ -1,0 +1,35 @@
+
+h1{
+    color:aqua;
+    border:10px solid;
+    background-color:pink;
+}
+body{
+    background-color: powderblue;
+}
+p{
+    color:yellowgreen;
+    font-weight: bold;
+}
+ol,ul{
+    color:violet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    background-color:red;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+.origami{
+    border:5px solid black;
+    border-radius: 40px;
+    width:320px;
+}
+.menu{
+    color:burlywood;
+}
